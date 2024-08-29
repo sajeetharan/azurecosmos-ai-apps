@@ -35,24 +35,6 @@
     ]
   },
   {
-    "title": "Movie ChatBot for Azure Cosmos DB for NoSQL",
-    "description": "Production Ready Reference Solution for how to build your own copilot using Azure services including: Azure Cosmos DB for NoSQL, Azure OpenAI Service, Azure Kubernetes Service or Azure Container Apps. Uses Semantic Kernel plugins for OpenAI, Cosmos DB connectors, and semantic cache. Built in C#.",
-    "preview": "coming soon",
-    "website": "https://github.com/Azure-Samples",
-    "author":"Azure Content Team",
-    "source": "https://github.com/Azure/buildyourowncopilot",
-    "tags":[
-      "python",
-      "featured",
-      "gpt35turbo",
-      "search",
-      "pinecone",
-      "managedidentity",
-      "aistudio",
-      "openai"
-    ]
-  },
-  {
     "title": "Movie ChatBot for Azure Cosmos DB for MongoDB",
     "description": "In this sample, we'll demonstrate how to build a RAG (Retrieval Augmented Generation) pattern application using a subset of the popular Movie Lens 1M dataset. This sample performs RAG over movie data with vector search, stores conversational chat history, and leverages a semantic cache, all using Azure Cosmos DB and its built-in vector search capability. Azure OpenAI Service is used to generate embeddings and LLM completions.",
     "preview": "coming soon",
@@ -98,6 +80,55 @@
     "source": "https://www.youtube.com/watch?v=6IIUtEFKJec",
     "tags":[
       "videos",
+      "microsoft"
+    ]
+  },
+
+  {
+    "title": "AI Semantic Search for Your Website with Azure Cosmos DB | E-commerce",
+    "description": "Build low-latency recommendation engines with Azure Cosmos DB and Azure OpenAI Service. Elevate user experience with vector-based semantic search, going beyond traditional keyword limitations to deliver personalized recommendations in real-time. With pre-trained models stored in Azure Cosmos DB, tailor product predictions based on user interactions and preferences. Explore the power of augmented vector search for optimized results prioritized by relevance. ",
+    "preview": "coming soon",
+    "website": "https://github.com/Azure-Samples",
+    "author":"Azure Content Team",
+    "source": "https://www.youtube.com/watch?v=3T0K61VbnFw",
+    "tags":[
+      "videos",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Scalable RAG with Azure Cosmos DB and DiskANN | Studio15",
+    "description": "Build low-latency recommendation engines with Azure Cosmos DB and Azure OpenAI Service. Elevate user experience with vector-based semantic search, going beyond traditional keyword limitations to deliver personalized recommendations in real-time. With pre-trained models stored in Azure Cosmos DB, tailor product predictions based on user interactions and preferences. Explore the power of augmented vector search for optimized results prioritized by relevance. ",
+    "preview": "coming soon",
+    "website": "https://github.com/Azure-Samples",
+    "author":"Azure Content Team",
+    "source": "https://www.youtube.com/watch?v=3T0K61VbnFw",
+    "tags":[
+      "videos",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Vector Search using 95% Less Compute | DiskANN with Azure Cosmos DB",
+    "description": "Ensure high-accuracy, efficient vector search at massive scale with Azure Cosmos DB. Leveraging Microsoft’s DiskANN, more IO traffic moves to disk to maximize storage capacity and enable high-speed similarity searches across all data, reducing memory dependency. This technology, powering global services like Microsoft 365, is now integrated into Azure Cosmos DB, enabling developers to build scalable, high-performance applications with built-in vector search, real-time fraud detection, and robust multi-tenancy support. ",
+    "preview": "coming soon",
+    "website": "https://github.com/Azure-Samples",
+    "author":"Azure Content Team",
+    "source": "https://www.youtube.com/watch?v=MlMPIYONvfQ",
+    "tags":[
+      "videos",
+      "microsoft"
+    ]
+  },
+  {
+    "title": "Introducing vector database capabilities in Azure Cosmos DB for NoSQL (Public Preview)",
+    "description": "We are excited to announce that native vector indexing and search in Azure Cosmos DB for NoSQL is now available in preview!",
+    "preview": "coming soon",
+    "website": "https://github.com/Azure-Samples",
+    "author":"Azure Content Team",
+    "source": "https://devblogs.microsoft.com/cosmosdb/introducing-vector-database-capabilities-in-azure-cosmos-db-for-nosql/",
+    "tags":[
+      "blogs",
       "microsoft"
     ]
   }
